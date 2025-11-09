@@ -1,16 +1,16 @@
 
 <h1 align="center">Hi 👋, I'm Shubhankar Maity</h1>
-<h3 align="center">A passionate MERN Stack developer from India</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=shubhankarmaity&label=Profile%20views&color=0e75b6&style=flat" alt="shubhankarmaity" /> 
-</p>
 
 <p align="center">
   <img src="https://github.com/Shubhankarmaity/Shubhankarmaity/blob/main/assets/Gemini_Generated_Image_ha42vvha42vvha42.png" alt="Shubhankar Maity Banner" width="100%" />
 </p>
 
+<h3 align="center">A passionate MERN Stack developer from India</h3>
 
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=shubhankarmaity&label=Profile%20views&color=0e75b6&style=flat" alt="shubhankarmaity" /> 
+</p>
 
  
   
