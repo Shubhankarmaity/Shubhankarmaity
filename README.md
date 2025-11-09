@@ -7,8 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/shubhankarmaity/shubhankarmaity/blob/main/Gemini_Generated_Image_ha42vvha42vvha42.png" alt="Shubhankar Maity Banner" width="100%" />
+  <img src="https://github.com/Shubhankarmaity/Shubhankarmaity/blob/main/assets/Gemini_Generated_Image_ha42vvha42vvha42.png" alt="Shubhankar Maity Banner" width="100%" />
 </p>
+
 
 
  
