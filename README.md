@@ -6,9 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=shubhankarmaity&label=Profile%20views&color=0e75b6&style=flat" alt="shubhankarmaity" /> 
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=gradient&color=0:0f2027,100:2c5364&height=200&section=header&text=Shubhankar%20Maity%20👨‍💻&fontSize=45&fontColor=fff" alt="header" />
-</p>
 
 
  
