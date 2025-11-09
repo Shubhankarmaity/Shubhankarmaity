@@ -6,6 +6,9 @@
   <img src="https://komarev.com/ghpvc/?username=shubhankarmaity&label=Profile%20views&color=0e75b6&style=flat" alt="shubhankarmaity" /> 
 </p>
 
+<p align="center">
+  <img src="https://github.com/shubhankarmaity/shubhankarmaity/blob/main/Gemini_Generated_Image_ha42vvha42vvha42.png" alt="Shubhankar Maity Banner" width="100%" />
+</p>
 
 
  
