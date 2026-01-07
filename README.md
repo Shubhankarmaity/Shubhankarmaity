@@ -77,7 +77,8 @@ I enjoy building real-world applications using modern technologies and continuou
 
 | GitHub Stats | GitHub Streak |
 |-------------|---------------|
-| ![Shubhankar Maity GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhankarmaity&show_icons=true&theme=tokyonight&cache_seconds=1800) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shubhankarmaity&theme=tokyonight&cache_seconds=1800) |
+| ![Shubhankar Maity GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shubhankarmaity&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://streak-stats.demolab.com?user=shubhankarmaity&theme=tokyonight) |
+
 
 
 ---
