@@ -23,6 +23,8 @@
 
 ## 🖥️ About Me
 
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="360" alt="Developer Coding GIF" />
+
 ```
 shubhankar@devos ~ % neofetch
 
@@ -35,8 +37,6 @@ shubhankar@devos
  Status    Building · Learning · Shipping
  Toolchain VS Code, Git, Docker, Postman
 ```
-
-<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shubhankarmaity&theme=tokyonight" width="340" />
 
 - 🔭 I'm currently building full-stack web apps with the **MERN stack**
 - 🌱 Learning **Docker, Kubernetes & Cloud Architecture**
