@@ -81,21 +81,6 @@ shubhankar@devos
 
 ---
 
-## 🏆 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| 🤖 [**Smart Attendance System**](https://github.com/Shubhankarmaity/Smart-Attendance-System-Using-Face-Recognition) | Automated face-recognition attendance management system. | `Python` `OpenCV` `HTML` |
-| 🚗 [**Alcohol Detection in Smart Cars**](https://github.com/Shubhankarmaity/alcohol-detection-project-in-smart-cars) | IoT safety system detecting driver intoxication in smart vehicles. | `C++` `Python` `IoT` |
-| 🎮 [**Simon Game Prototype**](https://github.com/Shubhankarmaity/Simon-Game) | Interactive memory Simon Game prototype built with modern web tools. | `JavaScript` `HTML` `CSS` |
-| 🏥 [**MediCare-Plus HMS**](https://github.com/Shubhankarmaity/MediCare-Plus) | Real-time Hospital Management System with WebRTC video consultations. | `React` `Node.js` `MongoDB` |
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">

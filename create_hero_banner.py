@@ -130,8 +130,8 @@ def generate_hero_svg(dark_mode=True):
             <text x="220" y="16" font-family="'Fira Code', monospace" font-size="11" font-weight="600" fill="{badge_text}" text-anchor="middle">☁️ AWS</text>
 
             <!-- Pill 4 -->
-            <rect x="266" y="0" width="95" height="24" rx="12" fill="{badge_bg}" stroke="{border_color}" stroke-width="1"/>
-            <text x="313" y="16" font-family="'Fira Code', monospace" font-size="11" font-weight="600" fill="{badge_text}" text-anchor="middle">☕ Java / C++</text>
+            <rect x="266" y="0" width="130" height="24" rx="12" fill="{badge_bg}" stroke="{border_color}" stroke-width="1"/>
+            <text x="331" y="16" font-family="'Fira Code', monospace" font-size="11" font-weight="600" fill="{badge_text}" text-anchor="middle">🏗️ System Design</text>
         </g>
     </g>
 
