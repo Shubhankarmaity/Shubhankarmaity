@@ -36,7 +36,7 @@ shubhankar@devos
  Toolchain VS Code, Git, Docker, Postman
 ```
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhankarmaity&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="320" />
+<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shubhankarmaity&theme=tokyonight" width="340" />
 
 - 🔭 I'm currently building full-stack web apps with the **MERN stack**
 - 🌱 Learning **Docker, Kubernetes & Cloud Architecture**
@@ -85,18 +85,12 @@ shubhankar@devos
 
 <div align="center">
 
-<a href="https://github.com/Shubhankarmaity/Smart-Attendance-System-Using-Face-Recognition">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shubhankarmaity&repo=Smart-Attendance-System-Using-Face-Recognition&theme=tokyonight&hide_border=true&bg_color=0d1117" width="400" />
-</a>
-<a href="https://github.com/Shubhankarmaity/alcohol-detection-project-in-smart-cars">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shubhankarmaity&repo=alcohol-detection-project-in-smart-cars&theme=tokyonight&hide_border=true&bg_color=0d1117" width="400" />
-</a>
-<a href="https://github.com/Shubhankarmaity/Simon-Game">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shubhankarmaity&repo=Simon-Game&theme=tokyonight&hide_border=true&bg_color=0d1117" width="400" />
-</a>
-<a href="https://github.com/Shubhankarmaity/Resume">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shubhankarmaity&repo=Resume&theme=tokyonight&hide_border=true&bg_color=0d1117" width="400" />
-</a>
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| 🤖 [**Smart Attendance System**](https://github.com/Shubhankarmaity/Smart-Attendance-System-Using-Face-Recognition) | Automated face-recognition attendance management system. | `Python` `OpenCV` `HTML` |
+| 🚗 [**Alcohol Detection in Smart Cars**](https://github.com/Shubhankarmaity/alcohol-detection-project-in-smart-cars) | IoT safety system detecting driver intoxication in smart vehicles. | `C++` `Python` `IoT` |
+| 🎮 [**Simon Game Prototype**](https://github.com/Shubhankarmaity/Simon-Game) | Interactive memory Simon Game prototype built with modern web tools. | `JavaScript` `HTML` `CSS` |
+| 🏥 [**MediCare-Plus HMS**](https://github.com/Shubhankarmaity/MediCare-Plus) | Real-time Hospital Management System with WebRTC video consultations. | `React` `Node.js` `MongoDB` |
 
 </div>
 
@@ -106,10 +100,12 @@ shubhankar@devos
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shubhankarmaity&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-<img height="180em" src="https://streak-stats.demolab.com?user=Shubhankarmaity&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shubhankarmaity&theme=tokyonight" />
+<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shubhankarmaity&theme=tokyonight" />
 
 </div>
+
+<br/>
 
 <div align="center">
 
