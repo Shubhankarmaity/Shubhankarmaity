@@ -1,53 +1,55 @@
 #!/usr/bin/env python3
 """
-GitHub Profile README Updater
-Auto-updates terminal SVG with live GitHub stats
+update.py
+Refreshes the public repo/follower counts inside README.md between
+the markers below, so the profile stays current. Meant to be run on
+a schedule via GitHub Actions (see .github/workflows/update-readme.yml).
+
+Add these markers anywhere in README.md where you want live numbers:
+    <!--STATS:START--> ... <!--STATS:END-->
 """
 
-import requests
 import re
+import requests
 
-GITHUB_USERNAME = "Shubhankarmaity"
-
-
-def fetch_github_stats():
-    """Fetch basic GitHub stats via API"""
-    url = f"https://api.github.com/users/{GITHUB_USERNAME}"
-    try:
-        resp = requests.get(url, timeout=10)
-        if resp.status_code == 200:
-            return resp.json()
-    except Exception as e:
-        print(f"Error fetching stats: {e}")
-    return {}
+USERNAME = "Shubhankarmaity"
+README_PATH = "README.md"
+START, END = "<!--STATS:START-->", "<!--STATS:END-->"
 
 
-def update_svg_dark(stats):
-    """Update dark.svg with live stats if needed"""
-    # Placeholder for dynamic updates
-    # You can extend this to modify SVG content with real data
-    repos = stats.get("public_repos", 0)
-    followers = stats.get("followers", 0)
-    print(f"[DARK] Repos: {repos}, Followers: {followers}")
+def fetch_profile():
+    r = requests.get(f"https://api.github.com/users/{USERNAME}", timeout=10)
+    r.raise_for_status()
+    return r.json()
 
 
-def update_svg_light(stats):
-    """Update light.svg with live stats if needed"""
-    repos = stats.get("public_repos", 0)
-    followers = stats.get("followers", 0)
-    print(f"[LIGHT] Repos: {repos}, Followers: {followers}")
+def build_block(data):
+    return (
+        f"{START}\n"
+        f"**Public repos:** {data['public_repos']} &nbsp;|&nbsp; "
+        f"**Followers:** {data['followers']} &nbsp;|&nbsp; "
+        f"**Following:** {data['following']}\n"
+        f"{END}"
+    )
 
 
 def main():
-    print("🚀 Updating GitHub Profile README...")
-    stats = fetch_github_stats()
+    data = fetch_profile()
+    block = build_block(data)
 
-    if stats:
-        update_svg_dark(stats)
-        update_svg_light(stats)
-        print("✅ Update complete!")
+    with open(README_PATH, "r", encoding="utf-8") as f:
+        content = f.read()
+
+    pattern = re.compile(re.escape(START) + r".*?" + re.escape(END), re.DOTALL)
+    if pattern.search(content):
+        content = pattern.sub(block, content)
     else:
-        print("⚠️ Could not fetch stats. Using cached values.")
+        content += "\n\n" + block + "\n"
+
+    with open(README_PATH, "w", encoding="utf-8") as f:
+        f.write(content)
+
+    print("README.md stats updated.")
 
 
 if __name__ == "__main__":
