@@ -1,8 +1,8 @@
 <div align="center">
 
-<!-- Animated ASCII portrait (auto-switches for dark/light mode) -->
-<img src="dark.svg#gh-dark-mode-only" width="480" alt="Shubhankar Maity ASCII portrait (dark)" />
-<img src="light.svg#gh-light-mode-only" width="480" alt="Shubhankar Maity ASCII portrait (light)" />
+<!-- Custom Bespoke Developer Hero Card (auto-switches for dark/light mode) -->
+<img src="hero_dark.svg#gh-dark-mode-only" width="100%" alt="Shubhankar Maity Hero Banner (dark)" />
+<img src="hero_light.svg#gh-light-mode-only" width="100%" alt="Shubhankar Maity Hero Banner (light)" />
 
 <!-- Typing animation header -->
 <a href="https://git.io/typing-svg">
