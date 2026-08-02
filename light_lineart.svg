@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 410 196" width="410" height="196">
+<rect width="100%" height="100%" fill="none"/>
+<style>
+text { font-family: 'Courier New', monospace; white-space: pre; }
+.row { opacity: 0; animation: reveal 0.6s ease forwards; }
+@keyframes reveal { to { opacity: 1; } }
+</style>
+<text class="row" x="10" y="15" font-size="10" fill="#0969da" style="animation-delay:0.0s">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+<text class="row" x="10" y="26" font-size="10" fill="#0969da" style="animation-delay:0.03s">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+<text class="row" x="10" y="37" font-size="10" fill="#0969da" style="animation-delay:0.06s">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠀⠂⠀⠒⠀⠀⠀⠒⠀⠠⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+<text class="row" x="10" y="48" font-size="10" fill="#0969da" style="animation-delay:0.09s">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣠⣤⣖⠒⠒⠚⢉⣉⣙⣓⡦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+<text class="row" x="10" y="59" font-size="10" fill="#0969da" style="animation-delay:0.12s">⠀⠀⢀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⢰⠋⣀⠀⢨⠉⠀⠘⢡⡀⠒⡀⢙⡆⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+<text class="row" x="10" y="70" font-size="10" fill="#0969da" style="animation-delay:0.15s">⠀⠈⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢯⠸⣄⠈⢉⠥⠐⠒⠒⠀⣏⠉⠉⣨⢁⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⣤⡤⠤⠤⣤⡀⠀⠀⣰⠖⠀⠀⠀⠀</text>
+<text class="row" x="10" y="81" font-size="10" fill="#0969da" style="animation-delay:0.18s">⠀⠀⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡀⠄⢀⠙⠂⣶⣤⣍⣡⣴⡆⠐⠊⠃⠄⠀⠀⣀⣠⣤⣤⣒⣒⣋⣉⣭⣭⣤⣤⣄⣀⣀⡒⠊⠁⠀⠀⣴⠋⠀⠀⠀⠀⠀</text>
+<text class="row" x="10" y="92" font-size="10" fill="#0969da" style="animation-delay:0.21s">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠠⠀⠃⠐⠅⢼⡑⠲⠠⠤⠤⠤⠤⢄⣒⠏⢀⠔⢀⠴⢂⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣉⡷⠀⠀⡼⢃⣤⠖⣶⠀⠀⢰</text>
+<text class="row" x="10" y="103" font-size="10" fill="#0969da" style="animation-delay:0.24s">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠀⠒⠂⠉⠉⠉⠀⠀⠀⠄⠉⠒⠠⠙⠒⠬⣍⣩⣭⠤⠒⠁⠬⠄⠂⠁⠀⠀⠂⠐⠂⠀⠀⠀⠤⠒⠂⢀⣀⡤⠴⠚⠉⠀⠀⢼⡵⠋⠀⠰⣿⢀⠀⠻</text>
+<text class="row" x="10" y="114" font-size="10" fill="#0969da" style="animation-delay:0.27s">⠀⠀⠀⠀⠀⠀⠀⠀⢀⠌⠀⠀⠀⠀⠠⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⡀⠀⠀⠀⠀⠀⠐⠀⠀⠁⠀⠀⠀⠀⠀⠀⠆⠀⠀⠀⠀⠈⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠄⠀⠙⢒⡂⠄</text>
+<text class="row" x="10" y="125" font-size="10" fill="#0969da" style="animation-delay:0.3s">⠀⠀⠀⠀⠀⠀⠀⠀⠘⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⠀⠀⠀⠀⠀⠀⠀⠀⠰⠈⠀⠀⠀⠀⣀⠠⠐⠊⠁⣀⠤⠒⠊⠁⠀⠀</text>
+<text class="row" x="10" y="136" font-size="10" fill="#0969da" style="animation-delay:0.33s">⠀⠀⠀⠀⠀⠀⠀⠀⠇⠀⠀⠀⠀⠀⠀⠀⠃⠈⠀⠀⠀⠀⢀⡀⠰⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡤⢤⣂⠤⠄⠀⠀⠀⠁⢀⠠⠔⠂⠁⠀⣀⠤⠒⠉⠀⠀⠀⠀⠀⠀⠀</text>
+<text class="row" x="10" y="147" font-size="10" fill="#0969da" style="animation-delay:0.36s">⠀⠀⠀⠀⠀⠀⠀⠀⡀⠀⠀⠐⠀⠤⠀⠐⢠⣤⣤⡄⠀⠀⠀⠤⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠤⠾⠵⠥⠲⠦⠙⠁⠀⠀⠀⠘⠀⢀⡠⠴⠂⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+<text class="row" x="10" y="158" font-size="10" fill="#0969da" style="animation-delay:0.39s">⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠁⠀⠀⡃⠀⠠⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⡀⠀⠊⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+<text class="row" x="10" y="169" font-size="10" fill="#0969da" style="animation-delay:0.42s">⠀⠀⠀⠀⠀⠀⠀⠀⠘⢦⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡠⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+<text class="row" x="10" y="180" font-size="10" fill="#0969da" style="animation-delay:0.45s">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠂⠀⠀⠀⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+</svg>
