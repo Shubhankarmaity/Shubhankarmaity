@@ -101,6 +101,7 @@ shubhankar@devos
 </div>
 
 <!--STATS:START-->
+**Public repos:** 24 &nbsp;|&nbsp; **Followers:** 0 &nbsp;|&nbsp; **Following:** 0
 <!--STATS:END-->
 
 ---
