@@ -252,7 +252,7 @@ A psychology-focused web application designed to help detect and understand psyc
 
 <a href="https://github.com/Shubhankarmaity/MindLoom"> <img src="https://img.shields.io/badge/GitHub_Repository-58A6FF?style=for-the-badge&logo=github&logoColor=white" /> </a>
 
-<a href="https://nd-loom-web.vercel.app"> <img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /> </a>
+<a href="https://mind-loom-web.vercel.app/"> <img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /> </a>
 
 </td>
 
