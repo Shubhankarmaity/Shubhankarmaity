@@ -20,18 +20,43 @@
 
 <br/>
 
+<table>
+<tr>
+
+<!-- GIF -->
+<td width="20%" align="center" valign="middle">
+
+<img
+  src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"
+  width="200"
+  alt="Animated developer"
+/>
+
+</td>
+
+<!-- SOCIAL BUTTONS -->
+<td width="82%" align="center" valign="middle">
+
 <a href="https://shubhankarmaity.tech">
   <img src="https://img.shields.io/badge/Portfolio-Visit-0d1117?style=for-the-badge&logo=google-chrome&logoColor=58A6FF" />
 </a>
+
 <a href="https://linkedin.com/in/shubhankar-maity-05976b290">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" />
 </a>
+
 <a href="https://leetcode.com/u/Shubhankar9832/">
   <img src="https://img.shields.io/badge/LeetCode-Solve-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
 </a>
+
 <a href="mailto:shubhankarmaity795@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
 </a>
+
+</td>
+
+</tr>
+</table>
 
 <br/><br/>
 
@@ -72,7 +97,7 @@
 
 <td width="45%" align="center" valign="middle">
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="380" alt="Animated developer coding" />
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="380" alt="Animated developer coding" />
 
 </td>
 </tr>
@@ -88,9 +113,33 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,java,python,js,ts,html,css,tailwind,react,nodejs,express,mongodb,mysql,docker,kubernetes,aws,firebase,git,github,postman&perline=10" alt="Technology stack" />
+<table>
+<tr>
+
+<td width="20%" align="center" valign="middle">
+
+<img
+src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"
+width="165"
+alt="Animated developer coding"
+/>
+
+</td>
+
+<td width="85%" align="center" valign="middle">
+
+<img
+src="https://skillicons.dev/icons?i=c,java,python,js,ts,html,css,tailwind,react,nodejs,express,mongodb,mysql,docker,kubernetes,aws,firebase,git,github,postman&perline=10"
+alt="Technology stack"
+/>
+
+</td>
+
+</tr>
+</table>
 
 </div>
+
 
 <!-- ===================================================== -->
 
