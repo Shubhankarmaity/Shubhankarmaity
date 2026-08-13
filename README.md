@@ -1,137 +1,151 @@
 <div align="center">
 
-<!-- Custom Bespoke Developer Hero Card (auto-switches for dark/light mode) -->
-<img src="hero_dark.svg#gh-dark-mode-only" width="100%" alt="Shubhankar Maity Hero Banner (dark)" />
-<img src="hero_light.svg#gh-light-mode-only" width="100%" alt="Shubhankar Maity Hero Banner (light)" />
+<img src="hero_dark.svg#gh-dark-mode-only" width="100%" alt="Shubhankar Maity developer profile" />
+<img src="hero_light.svg#gh-light-mode-only" width="100%" alt="Shubhankar Maity developer profile" />
 
-<!-- Typing animation header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%91%8B+Hey%2C+I'm+Shubhankar+Maity;MERN+Stack+Dev+%7C+CSE+Student+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=90&lines=%F0%9F%91%8B+Hey%2C+I'm+Shubhankar+Maity;MERN+Stack+Developer+%7C+CSE+Student;Building+%E2%80%A2+Learning+%E2%80%A2+Shipping+%F0%9F%9A%80" alt="Animated typing introduction" />
 </a>
 
-<br/>
+<p>
+  <a href="https://shubhankarmaity.tech"><img src="https://img.shields.io/badge/Portfolio-Visit-0d1117?style=for-the-badge&logo=google-chrome&logoColor=58A6FF" /></a>
+  <a href="https://linkedin.com/in/shubhankar-maity-05976b290"><img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" /></a>
+  <a href="https://leetcode.com/u/Shubhankar9832/"><img src="https://img.shields.io/badge/LeetCode-Solve-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
+  <a href="mailto:shubhankarmaity795@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+</p>
 
-<!-- Social badges -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-shubhankarmaity.tech-000?style=for-the-badge&logo=google-chrome&logoColor=58a6ff)](https://shubhankarmaity.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shubhankar_Maity-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhankar-maity-05976b290)
-[![Gmail](https://img.shields.io/badge/Gmail-shubhankarmaity795-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhankarmaity795@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Shubhankar9832-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Shubhankar9832/)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" width="85%" />
 
 </div>
 
----
+## 🖥️ `shubhankar@devos:~$ whoami`
 
-## 🖥️ About Me
+<table>
+<tr>
+<td width="52%" valign="top">
 
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="360" alt="Developer Coding GIF" />
-
+```text
+┌─────────────────────────────────┐
+│         SHUBHANKAR MAITY        │
+├─────────────────────────────────┤
+│ Role      : CSE Student         │
+│ Focus     : MERN / Full Stack   │
+│ Learning  : Cloud + DevOps      │
+│ Interests : IoT / ML / Systems  │
+│ Status    : Building & Shipping │
+└─────────────────────────────────┘
 ```
-shubhankar@devos ~ % neofetch
 
-shubhankar@devos
-─────────────────
- Name      Shubhankar Maity
- Role      CSE Student · MERN Stack Dev
- Origin    Bajkul, Purba Medinipur, WB, India
- Education B.Tech CSE
- Status    Building · Learning · Shipping
- Toolchain VS Code, Git, Docker, Postman
-```
+- 🔭 Building full-stack applications with **MERN**
+- 🌱 Exploring **Docker, Kubernetes & cloud architecture**
+- 💡 Interested in **IoT, ML and system design**
+- ⚡ I enjoy turning ideas into useful products
 
-- 🔭 I'm currently building full-stack web apps with the **MERN stack**
-- 🌱 Learning **Docker, Kubernetes & Cloud Architecture**
-- 💡 Interested in **IoT, ML, & System Design**
-- 📫 Reach me at **shubhankarmaity795@gmail.com**
-- ⚡ Fun fact: I love turning ideas into working products
+</td>
+<td width="48%" align="center" valign="middle">
 
-<br clear="right"/>
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="390" alt="Animated developer coding" />
 
----
+</td>
+</tr>
+</table>
 
-## 🛠️ Tech Stack
+## ⚡ Tech Stack
 
 <div align="center">
 
-#### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-#### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-#### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-#### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<img src="https://skillicons.dev/icons?i=c,java,python,js,ts,html,css,tailwind,react,nodejs,express,mongodb,mysql,docker,kubernetes,aws,firebase,git,github,postman&perline=10" alt="Technology stack" />
 
 </div>
 
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Dashboard
 
 <div align="center">
 
-<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shubhankarmaity&theme=tokyonight" />
-<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shubhankarmaity&theme=tokyonight" />
+<a href="https://github.com/Shubhankarmaity">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shubhankarmaity&theme=tokyonight" width="98%" alt="GitHub profile details" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Shubhankarmaity">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubhankarmaity&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180" alt="GitHub stats" />
+</a>
+&nbsp;
+<a href="https://github.com/Shubhankarmaity">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhankarmaity&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top languages" />
+</a>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubhankarmaity&theme=tokyonight&hide_border=true" width="70%" alt="GitHub contribution streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubhankarmaity&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1f6feb&hide_border=true" width="98%" alt="GitHub activity graph" />
 
 </div>
 
-<br/>
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubhankarmaity&bg_color=0d1117&color=58a6ff&line=58a6ff&point=79c0ff&title_color=58a6ff&area=true&area_color=58a6ff&hide_border=true" width="95%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Shubhankarmaity&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="98%" alt="GitHub trophies" />
 
 </div>
 
-<!--STATS:START-->
-**Public repos:** 26 &nbsp;|&nbsp; **Followers:** 0 &nbsp;|&nbsp; **Following:** 0
-<!--STATS:END-->
-
----
+## 🐍 Contribution Animation
 
 <div align="center">
-
-### 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shubhankarmaity/Shubhankarmaity/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shubhankarmaity/Shubhankarmaity/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Shubhankarmaity/Shubhankarmaity/output/github-contribution-grid-snake.svg" />
+  <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/Shubhankarmaity/Shubhankarmaity/output/github-contribution-grid-snake.svg" width="98%" />
 </picture>
 
 </div>
 
----
+## 🚀 Featured Projects
 
 <div align="center">
 
-### 👀 Profile Views
-  
-![Profile Views](https://komarev.com/ghpvc/?username=Shubhankarmaity&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
+<a href="https://github.com/Shubhankarmaity/MindLoom">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shubhankarmaity&repo=MindLoom&theme=tokyonight&hide_border=true" width="46%" />
+</a>
+&nbsp;
+<a href="https://github.com/Shubhankarmaity/Leetcode-questions-solve">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shubhankarmaity&repo=Leetcode-questions-solve&theme=tokyonight&hide_border=true" width="46%" />
+</a>
 
-<br/>
+</div>
 
-<i>Focused on building reliable, scalable software with modern engineering practices.</i>
+## 🧩 Developer Philosophy
 
-<br/>
+<div align="center">
 
-![wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+> **Learn → Build → Break → Debug → Ship → Repeat.**
+
+</div>
+
+## 📫 Connect
+
+<div align="center">
+
+<a href="https://shubhankarmaity.tech"><img src="https://img.shields.io/badge/🌐_Portfolio-shubhankarmaity.tech-161b22?style=for-the-badge" /></a>
+<a href="https://linkedin.com/in/shubhankar-maity-05976b290"><img src="https://img.shields.io/badge/💼_LinkedIn-Shubhankar_Maity-161b22?style=for-the-badge" /></a>
+<a href="https://leetcode.com/u/Shubhankar9832/"><img src="https://img.shields.io/badge/🧠_LeetCode-Shubhankar9832-161b22?style=for-the-badge" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Shubhankarmaity&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" alt="Profile views" />
+
+<br/><br/>
+
+<i>✨ Thanks for visiting — keep building cool things.</i>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:7c3aed&height=120&section=footer" width="100%" alt="Animated footer" />
 
 </div>
