@@ -415,5 +415,5 @@ alt="Animated footer"
 
 
 <!--STATS:START-->
-**Public repos:** 28 &nbsp;|&nbsp; **Followers:** 2 &nbsp;|&nbsp; **Following:** 0
+**Public repos:** 27 &nbsp;|&nbsp; **Followers:** 2 &nbsp;|&nbsp; **Following:** 0
 <!--STATS:END-->
